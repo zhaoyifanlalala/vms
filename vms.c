@@ -4,6 +4,7 @@
 
 int money;
 char sale = '=';
+//
 //char goods[100] = {'Juice', 'Cola', 'Tea', 'Water', 'Coffee'};
 char choice[5] = {'A', 'B', 'C', 'D', 'E'};
 int price[5] = {10, 6, 5, 8, 7}; 
@@ -14,7 +15,7 @@ int main(){
 	printf("*---------------------------*\n");
 
 
-
+	
     printf("*---------------------------*\n");
     printf("|                    [$%2d]  |\n", money);
     printf("|                           |\n");
